@@ -3,7 +3,6 @@
 ####################################################################################################
 import csv 
 
-
 # Capturar informacion del usuario 
 nombre =  input("Nombre: ")
 apellido = input("Apellido: ")
